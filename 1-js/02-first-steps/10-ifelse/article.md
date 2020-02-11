@@ -1,12 +1,12 @@
-# Conditional operators: if, '?'
+# Bedingte Operatoren: if, '?'
 
-Sometimes, we need to perform different actions based on different conditions.
+Manchmal müssen unterschiedliche Aktionen ausgeführt werden, die auf ganz unterschiedliche Bedingungen basieren.
 
-To do that, we can use the `if` statement and the conditional operator `?`, that's also called a "question mark" operator.
+Dazu können wir die `if`-Anweisung und den bedingten Operator `?` Verwenden, der auch als Fragezeichenoperator bezeichnet wird.
 
-## The "if" statement
+## Die "if" Anweisung
 
-The `if(...)` statement evaluates a condition in parentheses and, if the result is `true`, executes a block of code.
+Die `if(...)` Anweisung evaluates a condition in parentheses and, if the result is `true`, executes a block of code.
 
 For example:
 
